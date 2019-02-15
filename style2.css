@@ -1,0 +1,67 @@
+table {
+	font-family: Tahoma; 
+	font-size: 10pt;
+}
+
+td.small{
+	font-family: Tahoma; 
+	font-size: 9pt;
+}
+
+
+td.big{
+	font-family: Tahoma; 
+	font-size: 18pt;
+	width:50%;
+}
+
+td.big1{
+	font-family: Tahoma; 
+	font-size: 14pt;
+	width:50%;
+}
+td.middle{
+	font-family: Tahoma; 
+	font-size: 12pt;
+}
+
+td.noborder{
+	border: 0px;
+	font-size: 10pt;
+}
+
+p.part {
+    font-size:  18pt;
+	font-family: Tahoma;
+	margin-top: 5px;
+	margin-bottom:0px;
+	
+	}
+
+p.part2 {
+    font-size:  9pt;
+	font-family: Tahoma;
+	margin-top: 0px;
+	margin-bottom:0px;
+	}
+
+
+p.tag {
+    font-size:  15pt;
+	font-family: Tahoma;
+	margin-top: 0px;
+	margin-bottom:0px;
+	}	
+	
+
+p.head {
+    font-size:  8pt;
+	font-family: Tahoma;
+	margin-top: 0px;
+	margin-bottom:0px;
+	
+	}	
+	
+		
+	
+
